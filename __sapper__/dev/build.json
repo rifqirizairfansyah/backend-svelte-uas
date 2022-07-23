@@ -1,0 +1,55 @@
+{
+  "bundler": "rollup",
+  "shimport": "2.0.4",
+  "assets": {
+    "main": "client.55904bd6.js"
+  },
+  "css": {},
+  "dependencies": {
+    "index.svelte": [
+      "index.b6400110.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "input_Suborganization.svelte": [
+      "Input_Suborganization.c4fea965.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "anggota_update.svelte": [
+      "anggota_update.e6e02594.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "suborganisasi.svelte": [
+      "Suborganisasi.604f5ddb.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "anggota_input.svelte": [
+      "anggota_input.a1c9cf5c.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "dashboard.svelte": [
+      "dashboard.fe86fb6e.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "activity.svelte": [
+      "activity.a8944934.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "anggotaa/[slug].svelte": [
+      "[slug].97179bdd.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "register.svelte": [
+      "register.1cf7c8d4.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "anggota.svelte": [
+      "anggota.0055e1ab.js",
+      "inject_styles.5607aec6.js",
+      "anggota-8f1daf66.css"
+    ],
+    "login.svelte": [
+      "login.f6312a86.js",
+      "inject_styles.5607aec6.js"
+    ]
+  }
+}
